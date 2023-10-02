@@ -113,3 +113,13 @@ You can extend Tailwind CSS by creating your own utility classes or plugins to s
 ### Conclusion:
 
 Tailwind CSS is a powerful utility-first CSS framework that helps you rapidly develop and style web applications by utilizing pre-defined utility classes. Its flexibility and ease of use make it a popular choice for modern web development projects. Start by installing Tailwind CSS and experimenting with its utility classes to create well-designed, responsive interfaces.
+
+![Screenshot 2023-10-02 235829](https://github.com/divyanshrajpoot9/Tailwind-MajorProject/assets/114856467/a44e035b-633f-4e7a-82f0-60c9cb362918)
+![Screenshot 2023-10-02 235839](https://github.com/divyanshrajpoot9/Tailwind-MajorProject/assets/114856467/ccf44df8-b0a1-469e-95e3-997e49501b7b)
+![Screenshot 2023-10-02 235850](https://github.com/divyanshrajpoot9/Tailwind-MajorProject/assets/114856467/6ab6c36d-3e63-4682-ae8f-6aa992c6b3de)
+![Screenshot 2023-10-02 235850](https://github.com/divyanshrajpoot9/Tailwind-MajorProject/assets/114856467/79abae95-e35f-4dd2-a88d-b16ce14bfdc1)
+![Screenshot 2023-10-02 235907](https://github.com/divyanshrajpoot9/Tailwind-MajorProject/assets/114856467/a28a993f-a3a4-4ba6-a325-cfc0d45348e1)
+![Screenshot 2023-10-02 235918](https://github.com/divyanshrajpoot9/Tailwind-MajorProject/assets/114856467/c8de74ac-7f86-4b1c-a089-d6ba3fa219a4)
+
+
+
